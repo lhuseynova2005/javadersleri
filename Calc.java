@@ -6,7 +6,7 @@ public class Fact {
         long factorial=1;
 
         if (number<0) {
-            System.out.println("ssnumber cannot be negative");
+            System.out.println(" cannot be negative");
             
         }
             else {
