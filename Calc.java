@@ -6,7 +6,7 @@ public class Fact {
         long factorial=1;
 
         if (number<0) {
-            System.out.println(" cannot be negative");
+            System.out.println("555 cannot be negative");
             
         }
             else {
