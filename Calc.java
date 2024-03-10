@@ -13,7 +13,8 @@ public class Fact {
             for (int i=1; i<=number;i++) {
                factorial *= i;
             }
-            System.out.println(factorial);
+        
+        
             }
             
         }
